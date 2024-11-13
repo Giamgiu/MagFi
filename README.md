@@ -1,0 +1,2 @@
+# MagFi
+A magnetic finder
